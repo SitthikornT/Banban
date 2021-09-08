@@ -1,8 +1,8 @@
 # Banban
 Receipt And Report printing using System Printing Drawstring
 
-
 private void A4Print(DataSet _data, System.Drawing.Printing.PrintPageEventArgs e)
+
         {
             Graphics graphics = e.Graphics;
 
